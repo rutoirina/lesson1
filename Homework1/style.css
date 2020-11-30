@@ -1,0 +1,32 @@
+body{
+    margin: 0 ;
+    padding: 0;
+}
+.article{
+    color: darkslategrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    background: rgb(17,17,17);
+    opacity: 0.5;
+}
+img{
+    width: 100%;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: orange;
+}
+blockquote{
+    color: black;
+    font-family: cursive;
+    text-align: center;
+    padding: 15px;
+    background-color: gray;
+}
